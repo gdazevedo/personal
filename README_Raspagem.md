@@ -101,5 +101,5 @@ Agora, uma sequência de comandos para mostrar a imagem gerada:
 plt.imshow(wc, interpolation = 'bilinear') #interpolation gera figuras mais 'suaves'
 plt.axis('off') #Tira os eixos
 plt.tight_layout() #Deixa o layout mais 'apertadinho'
-plt.savefig('wc_fla.png', format = 'png', dpi = 600) #Salva a figura gerada
+plt.savefig('wc_gus.png', format = 'png', dpi = 600) #Salva a figura gerada
 ```

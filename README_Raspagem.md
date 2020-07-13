@@ -95,7 +95,7 @@ Recomendo que você leia a documentação do WordCloud para mais comandos.
 
 ### Quinto passo: mostrando a imagem ###
 
-Agora, uma sequência de comandos para mostrar a imagem gerada e salvá-la:
+Agora, uma sequência de comandos para mostrar a imagem gerada:
 
 ```python
 plt.imshow(wc, interpolation = 'bilinear') #interpolation gera figuras mais 'suaves'

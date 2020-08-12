@@ -107,4 +107,4 @@ plt.savefig('Niteroi_diario_MA.png', format = 'png', dpi = 300)
 ```
 
 O resultado final deve ser algo mais ou menos assim:
-![NiteroiCovid](
+![NiteroiCovid](Niteroi_diario_MA.png)

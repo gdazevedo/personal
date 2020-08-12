@@ -8,7 +8,7 @@ O único trabalho aqui é atualizar esse arquivo .csv diariamente, a partir dos 
 
 ## Primeiro passo: chamando os pacotes
 
-Vamos utilizar nesse código 4 pacotes:
+Vamos utilizar nesse código 5 pacotes:
 
 * **Pandas**, um pacote para lidar com estrutura de dados em tabelas;
 * **Numpy**, um pacote para operações matemáticas;
